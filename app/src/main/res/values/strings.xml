@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MusicStopwatch</string>
+    <string name="title_handwash">Handwash</string>
+    <string name="title_toothbrush">Toothbrush</string>
+    <string name="title_settings">Settings</string>
+    <string name="startButton">Start</string>
+    <string name="resetButton">Reset</string>
+    <string name="handwashing_settings">Handwashing settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Handwashing settings</string>
+    <string name="sync_header">Toothbrushing settings</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Set timer</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Play music</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+</resources>
